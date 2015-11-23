@@ -1,1 +1,2 @@
-Oh my!  So many conflicts!
+Oh my! I made a conflict instead
+And this is another line
